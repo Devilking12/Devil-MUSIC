@@ -8,7 +8,7 @@
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/THE-VIP-BOY-OP/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/DEVIL-KING/count.svg" />
 </p>
 
 
@@ -35,7 +35,7 @@
   <img src="https://graph.org/file/dc4993b1d1b2fd636e73a.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗧𝗚🍷𝗩𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/TG_VC_BOT)**
+**MUSIC BOT ➣ [𝄟ॐ❥𝗧𝗚🍷𝗩𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/SHIZUKA_MUSIC_1BOT)**
 
 
 
