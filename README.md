@@ -28,7 +28,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Devilking12&repo=Devil-MUSIC&theme=flag-india)
 
 [![GIF](https://github.com/Devilking12/Devil-MUSIC/blob/main/Devilking12.gif)](https://github.com/Devilking12)
-   [![VIP BOY](https://github-stats-alpha.vercel.app/api?username=THE-VIP-BOY-OP "THE_VIP_BOY")](https://github-stats-alpha.vercel.app/api?username=THE-VIP-BOY-OP "THE_VIP_BOY")
+   [![VIP BOY](https://github-stats-alpha.vercel.app/api?username=Devilking12 "TABAHI")](https://github-stats-alpha.vercel.app/api?username=Devilking12 "TABAHI")
 
 
 <p align="center">
