@@ -35,7 +35,7 @@
   <img src="https://graph.org/file/dc4993b1d1b2fd636e73a.jpg">
 </p>
 
-**MUSIC BOT ➣ [𝄟ॐ❥𝗧𝗚🍷𝗩𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/SHIZUKA_MUSIC_1BOT)**
+**MUSIC BOT ➣ [◄⏤͟͞❀͢°‌⁪𝗦͟ʜͥ͟͟ɪ͟ᴢͣ͟͟ᴜͫ͟͟ᴋ͟ᴀ͟🤍᪳𝆺꯭𝅥⎯꯭̽⎯꯭](https://t.me/SHIZUKA_MUSIC_1BOT)**
 
 
 
