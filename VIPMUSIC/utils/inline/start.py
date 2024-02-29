@@ -32,10 +32,8 @@ def private_panel(_):
                 url=f"https://t.me/{app.username}?startgroup=true",
             )
         ],
-        [
-           InlineKeyboardButton(text="Feelings💝", url=config."https://t.me/feelings_for_you_baby"),
-        ],
         
+      
         [
             InlineKeyboardButton(text="۞ 𝐅𝙴𝙰𝚃𝚄𝚁𝙴𝚂 ۞", callback_data="settings_back_helper")
         ],
