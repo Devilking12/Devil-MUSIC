@@ -33,9 +33,9 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text="𝐆𝚁𝙾𝚄𝙿✨", url=config.https://t.me/Tababhi_chatting_group),
-            InlineKeyboardButton(text="Feelings💝", url=config.https://t.me/feelings_for_you_baby),
+           InlineKeyboardButton(text="Feelings💝", url=config.https://t.me/feelings_for_you_baby),
         ],
+        
         [
             InlineKeyboardButton(text="۞ 𝐅𝙴𝙰𝚃𝚄𝚁𝙴𝚂 ۞", callback_data="settings_back_helper")
         ],
