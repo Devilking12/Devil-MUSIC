@@ -33,7 +33,7 @@ def private_panel(_):
             )
         ],
         [
-            InlineKeyboardButton(text="𝐆𝚁𝙾𝚄𝙿✨", url=config.https://t.me/Tabahi_chatting_group),
+            InlineKeyboardButton(text="𝐆𝚁𝙾𝚄𝙿✨", url=config.https://t.me/Tababhi_chatting_group),
             InlineKeyboardButton(text="Feelings💝", url=config.https://t.me/feelings_for_you_baby),
         ],
         [
