@@ -33,7 +33,7 @@ def private_panel(_):
             )
         ],
         [
-           InlineKeyboardButton(text="Feelings💝", url=config.https://t.me/feelings_for_you_baby),
+           InlineKeyboardButton(text="Feelings💝", url=config."https://t.me/feelings_for_you_baby"),
         ],
         
         [
